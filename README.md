@@ -23,6 +23,7 @@
 * [Revercipe](Revercipe.md)
 * [Storebud](Storebud.md)
 * [What to Watch](whatToWatch.md)
+* [SoundScape](soundspace_md.md)
 
 ## CSCI 430 (Spring 2020):
 
